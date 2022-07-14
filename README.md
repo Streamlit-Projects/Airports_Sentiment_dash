@@ -1,5 +1,5 @@
 
-## Airports Sentiment Analysis Dashboard
+## Airport Tweets Sentiment Analysis Dashboard
 
 Airports Sentiment Dashboard has been built in streamlit by using python and plotly/wordcloud to visualise data.
 
