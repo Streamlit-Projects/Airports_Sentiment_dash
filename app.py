@@ -10,8 +10,6 @@ import matplotlib.pyplot as plt
 # To hide warnings
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-DATA_URL = ("https://github.com/mBohunickaCharles/streamlit_Airports_Sentiment_Dashboard/blob/master/Tweets.csv")
-
 
 st.title("Sentiment Analysis of Tweets about US Airlines")
 st.sidebar.title("Sentiment Analysis of Tweets")
@@ -22,7 +20,7 @@ st.sidebar.markdown("This application is a Streamlit dashboard used "
 
 @st.cache(persist=True)
 def load_data():
-    data = pd.read_csv(DATA_URL)
+    data = pd.read_csv('Tweets.csv')
     data['tweet_created'] = pd.to_datetime(data['tweet_created'])
     return data
 
