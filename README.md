@@ -13,4 +13,4 @@ Airports Tweets Sentiment Dashboard : https://mbohunickacharles-streamlit-airpor
 #### Source:
 
 - Coursera: Create Interactive Dashboards with Streamlit and Python 
-- https://www.coursera.org/projects/interactive-dashboards-streamlit-python
+- Guided Project link: https://www.coursera.org/projects/interactive-dashboards-streamlit-python
