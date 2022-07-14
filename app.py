@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # To hide warnings
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-DATA_URL = ("C:\\Users\End User\OneDrive\Documents\streamlit apps\streamlit-sentiment-dashboard\Tweets.csv")
+DATA_URL = ("https://github.com/mBohunickaCharles/streamlit_Airports_Sentiment_Dashboard/blob/master/Tweets.csv")
 
 
 st.title("Sentiment Analysis of Tweets about US Airlines")
