@@ -4,7 +4,7 @@
 Airports Sentiment Dashboard has been built in streamlit by using python and plotly/wordcloud to visualise data.
 
 #### Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mbohunickacharles-streamlit-airports-sentiment-dashb-app-1tf822.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)](https://mbohunickacharles-streamlit-airports-sentiment-dashb-app-1tf822.streamlitapp.com/)
 
 #### Screenshot
 
